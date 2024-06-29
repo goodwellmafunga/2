@@ -57,8 +57,6 @@ python project.py path_to_your_dataset.csv
 
 Below are some images related to the project:
 
-### DNA Sequence Graph Example 1
-![DNA Graph Example 1](DNA_1.png)
 
 ### DNA Sequence Graph Example 2
 ![DNA Graph Example 2](DNA_2.png)
